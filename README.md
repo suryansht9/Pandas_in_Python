@@ -39,7 +39,5 @@ A collection of Python programs demonstrating key features of the **Pandas** lib
 ### 🔹 Visualization (Optional)
 - Plotting Series and DataFrames using Pandas' built-in plotting (matplotlib)
 
----
-
-## 📂 Project Structure
+--
 
