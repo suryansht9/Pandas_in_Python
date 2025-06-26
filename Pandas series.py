@@ -3,6 +3,7 @@
 #A Pandas Series is like a column in a table.
 #It is a one-dimensional array holding data of any type.
 
+#in my words this is very easy function in comparison of traditional lists
 
 
 #series programme of int data type
